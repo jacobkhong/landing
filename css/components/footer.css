@@ -1,0 +1,18 @@
+.footer{
+  background-color: #2c2b2b;
+  max-width: none;
+  text-align: center;
+  padding: 80px;
+}
+
+.icon-links i{
+  font-size: 30px;
+  flex-wrap: wrap;
+  padding: 10px;
+  color: #1EDD88
+}
+
+.footer p{
+  color: #6B6C6C;
+  font-size: 16px;
+}
